@@ -1,0 +1,9 @@
+{
+  "name": "aryabday-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server . -p 8000",
+    "tunnel": "npx localtunnel --port 8000"
+  }
+}
